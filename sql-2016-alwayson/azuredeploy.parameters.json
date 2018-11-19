@@ -10,6 +10,9 @@
         },
         "adminUsername": {
             "value": "locladmin"
+        },
+        "vmDisksize": {
+            "value": "1023"
         }
     }
 }
